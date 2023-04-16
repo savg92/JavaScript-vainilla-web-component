@@ -1,1 +1,1 @@
-{"version":3,"sources":["counterBox.scss","counterBox.css"],"names":[],"mappings":"AAAA;EACI,kCAAA;EACA,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,uBAAA;EACA,aAAA;ACCJ;ADAI;EACI,yBAAA;ACER","file":"counterBox.css"}
+{"version":3,"sources":["Counter/counter.scss","counterBox.css","counterBox.scss"],"names":[],"mappings":"AAAA;EACI,kCAAA;EACA,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,uBAAA;EACA,aAAA;ACCJ;ADCI;EACI,wBAAA;ACCR;;ACRA;EACI,oCAAA;EACA,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,uBAAA;EACA,aAAA;ADWJ;ACVI;EACI,wBAAA;ADYR","file":"counterBox.css"}
