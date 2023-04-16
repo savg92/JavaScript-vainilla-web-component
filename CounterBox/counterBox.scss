@@ -1,0 +1,11 @@
+.container {
+    border: 1px solid rgb(223, 48, 48);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    h1 {
+        color: rgb(156, 215, 184);
+    }
+}
