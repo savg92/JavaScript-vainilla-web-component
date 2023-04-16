@@ -1,7 +1,7 @@
 This is counter as a JavaScript vainilla web component, a simple example of how to use the Web Components API.
 
 Using the following technologies:
- Markup :
+Markup :
     * Custom elements: A set of JavaScript APIs that allow you to define custom elements and their behavior, which can then be used as desired in your user interface.
    * Shadow DOM: A set of JavaScript APIs for attaching an encapsulated "shadow" DOM tree to an element — which is rendered separately from the main document DOM — and controlling associated functionality. In this way, you can keep an element's features private, so they can be scripted and styled without the fear of collision with other parts of the document.
 
